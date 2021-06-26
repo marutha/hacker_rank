@@ -1,1 +1,9 @@
-Add read me for hacker rank code
+hacker_rank
+=====
+
+An OTP library
+
+Build
+-----
+
+    $ rebar3 compile
